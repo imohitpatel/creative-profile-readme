@@ -873,6 +873,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/MdFarhaan.webp">
   </details>
+- [Mohit](https://github.com/imohitpatel)
+  <details>
+    <summary>Preview</summary>
+    <img loading="lazy" src="EXAMPLES/imohitpatel.webp">
+  </details>
 - [Monica Powell](https://github.com/M0nica)
   <details>
     <summary>Preview</summary>
